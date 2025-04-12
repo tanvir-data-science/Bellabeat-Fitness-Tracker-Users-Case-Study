@@ -1,5 +1,5 @@
 # Bellabeat Fitness Tracker Users  Case Study
-<img src="https://github.com/tanvir-data-science/Fitness-Tracker-Users-Case-Study/blob/main/bellabeat-case.study.png" alt="bellabeat-case-study" width="800" height="600">
+<img src="https://github.com/tanvir-data-science/Fitness-Tracker-Users-Case-Study/blob/main/bellabeat-case.study.png" alt="bellabeat-case-study" width="1200" height="400">
 
 # Overview
 This project analyzes fitness-related data from various datasets, focusing on user activity, caloric burn, and sleep patterns. The main goal is to explore how activity levels (steps, active minutes, sedentary time) influence calories burned and to segment users based on their physical activity. The analysis provides insights into user behavior, activity efficiency, and trends over time.
