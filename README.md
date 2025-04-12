@@ -1,5 +1,5 @@
 # Bellabeat Fitness Tracker Users  Case Study
-![fnp-sales-dashboard](https://github.com/tanvirfau/Sales-Analysis-Report-for-FNP/blob/main/fnp-sales-dashboard.png)
+![bellabeat-case-study](https://github.com/tanvir-data-science/Fitness-Tracker-Users-Case-Study/blob/main/bellabeat-case.study.png)
 # Overview
 This project analyzes fitness-related data from various datasets, focusing on user activity, caloric burn, and sleep patterns. The main goal is to explore how activity levels (steps, active minutes, sedentary time) influence calories burned and to segment users based on their physical activity. The analysis provides insights into user behavior, activity efficiency, and trends over time.
 
