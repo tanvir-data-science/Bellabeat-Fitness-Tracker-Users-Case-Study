@@ -31,6 +31,9 @@ The following datasets were used in the analysis:
 * User Segmentation: Users were segmented based on their daily activity levels (steps) and sedentary behavior.
 
 * Activity Efficiency: Calculated efficiency metrics such as calories burned per step and per active minute.
+  
+<img src=" https://github.com/tanvir-data-science/Fitness-Tracker-Users-Case-Study/blob/main/bellabeat-tracker.png" alt="bellabeat-case-study" width="1200" height="600">
+ 
 
 # Trends and Patterns
 * Activity Levels by Day: Analyzed user activity patterns throughout the week. Found that users are most active on weekends (Friday and Saturday) and less active during the workweek (Monday to Thursday).
