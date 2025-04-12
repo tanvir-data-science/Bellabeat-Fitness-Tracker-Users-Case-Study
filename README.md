@@ -32,7 +32,7 @@ The following datasets were used in the analysis:
 
 * Activity Efficiency: Calculated efficiency metrics such as calories burned per step and per active minute.
   
-<img src=" https://github.com/tanvir-data-science/Fitness-Tracker-Users-Case-Study/blob/main/bellabeat-tracker.png" alt="bellabeat-case-study" width="1200" height="600">
+<img src="https://github.com/tanvir-data-science/Fitness-Tracker-Users-Case-Study/blob/main/bellabeat-tracker.png" alt="bellabeat-tracker" width="1200" height="600">
  
 
 # Trends and Patterns
